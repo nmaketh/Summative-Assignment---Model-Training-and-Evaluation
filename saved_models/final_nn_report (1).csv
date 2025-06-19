@@ -1,0 +1,5 @@
+Instance,Accuracy,F1 Score,Recall,Precision
+Instance 1,0.9536,0.804,0.7579,0.9274
+Instance 2,0.9543,0.821,0.7838,0.8909
+Instance 3,0.9424,0.8035,0.76,0.8979
+Instance 4,0.9589,0.864,0.8138,0.9649
