@@ -1,5 +1,0 @@
-Instance,Optimizer,Regularizer,Epochs,Early Stopping,Number of Layers,Learning Rate,Accuracy,F1_Score,Recall,Precision
-1,adam,None,10,No,2,default,0.9603,0.8781,0.8661,0.8923
-2,adam,L2,50,Yes,2,default,0.9954,0.9764,0.9713,0.9817
-3,rmsprop,Dropout,50,Yes,2 + Dropout,default,0.9675,0.8791,0.8713,0.8877
-4,sgd,Dropout,60,Yes,3 + Dropout,0.01,0.9748,0.9369,0.9542,0.9215
