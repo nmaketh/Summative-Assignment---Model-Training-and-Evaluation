@@ -1,0 +1,4 @@
+Instance,Optimizer,Regularizer,Epochs,Early Stopping,Number of Layers,Learning Rate,Accuracy,F1 Score,Recall,Precision
+LogReg,liblinear,L2,n/a,No,n/a,n/a,0.9861,0.751,0.72,0.9851
+SVM,n/a,n/a,n/a,No,n/a,n/a,0.994,0.9378,0.9429,0.9329
+XGBoost,tree booster,L1 & L2,auto,No,n/a,0.3 (default),1.0,1.0,1.0,1.0
