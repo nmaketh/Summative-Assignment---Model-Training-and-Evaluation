@@ -3,11 +3,13 @@
 This project explores the implementation of machine learning models, including neural networks and classical ML algorithms, to classify the level of peer influence risk among university students based on behavioral and social factors.
 
  Dataset
-- Source: [Factors affecting university student grades dataset]
+- Source: [Factors affecting university student grades dataset]:https://www.kaggle.com/datasets/atifmasih/factors-affecting-university-student-grades
 - Mission Alignment: The dataset reflects real-world educational and behavioral challenges, supporting our mission to apply AI for improving student wellbeing and academic support.
 - Target Label: `Peer_Risk_Level` — derived from peer-related attributes such as bullying, motivation, social media time, and peer group.
 
 ---
+
+Here is the link to my youtube video:https://youtu.be/B4HbbOquJF4
 
 Models Implemented
 
